@@ -1,0 +1,5 @@
+# Created at 2024-05-28T16:17:55.874
+Boot Manifest-JAR contains absolute paths in classpath 'D:\intenship studio\01-Maven-SA-App\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
